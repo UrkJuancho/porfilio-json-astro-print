@@ -1,29 +1,24 @@
-{
+﻿{
   "basics": {
-    "name": "Raul Peña Perez",
-    "label": "Developer & Creador 3D",
+    "name": "Juan Andres Vallejo Acosta",
+    "label": "Developer",
     "image": "https://avatars.githubusercontent.com/u/25549072?s=400&u=e1fc953331d80aafca58e1ab46b13aad8646acac&v=4",
-    "email": "tatenokay@gmail.com",
-    "phone": "+57 3007768558",
+    "email": "juanvallejo7601@gmail.com",
+    "phone": "+57 3017147197",
     "url": "https://datasoftcolll.com",
     "summary": "Tomamos ideas de ficción entre cómics, películas y videojuegos para crear prototipos reales funcionales como una forma de inspirar a los jóvenes en el campo de la ciencia, la tecnología y la ingeniería.",
     "location": {
       "address": "Nariño city",
-      "postalCode": "32002",
+      "postalCode": "560001",
       "city": "San Juan de Pasto",
       "countryCode": "ES",
       "region": " Colombia"
     },
     "profiles": [
       {
-        "network": "X",
-        "username": "Tecnopolis",
-        "url": "https://main--luminous-hamster-09e755.netlify.app/"
-      },
-      {
         "network": "GitHub",
-        "username": "satara2358",
-        "url": "https://github.com/satara2358"
+        "username": "urkjuancho",
+        "url": "https://github.com/urkjuancho"
       }
     ]
   },
