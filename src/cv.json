@@ -2,11 +2,11 @@
   "basics": {
     "name": "Juan Andres Vallejo Acosta",
     "label": "Developer",
-    "image": "https://avatars.githubusercontent.com/u/25549072?s=400&u=e1fc953331d80aafca58e1ab46b13aad8646acac&v=4",
+    "image": "https://avatars.githubusercontent.com/u/104238823?v=4",
     "email": "juanvallejo7601@gmail.com",
     "phone": "+57 3017147197",
     "url": "https://datasoftcolll.com",
-    "summary": "Tomamos ideas de ficción entre cómics, películas y videojuegos para crear prototipos reales funcionales como una forma de inspirar a los jóvenes en el campo de la ciencia, la tecnología y la ingeniería.",
+    "summary": "El código es nuestra herramienta para transformar ideas en realidad, y cada error es solo una oportunidad para crear algo mejor",
     "location": {
       "address": "Nariño city",
       "postalCode": "560001",
@@ -24,33 +24,12 @@
   },
   "work": [
     {
-      "name": "BrainScan",
+      "name": "Prevenir Descuentos Medicos",
       "position": "Programación Web",
-      "url": "https://twitch.tv/tecnopolis",
-      "startDate": "2021-01-01",
+      "url": "https://descuentosmedicos.co/",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "summary": "Espectador",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Ade",
-      "position": "Lead Frontend Architect",
-      "url": "https://t",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Descripcion la informa.",
+      "summary": "Desarrollador Web Junior",
       "highlights": [
         "Started the company"
       ]
