@@ -8,7 +8,7 @@
     "url": "https://datasoftcolll.com",
     "summary": "El código es nuestra herramienta para transformar ideas en realidad, y cada error es solo una oportunidad para crear algo mejor",
     "location": {
-      "address": "Nariño city",
+      "address": "Nariño",
       "postalCode": "560001",
       "city": "San Juan de Pasto",
       "countryCode": "ES",
@@ -17,8 +17,13 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "urkjuancho",
+        "username": "UrkJuancho",
         "url": "https://github.com/urkjuancho"
+      }, 
+      {
+        "network": "WhatsApp",
+        "username": "+53017147197",
+        "url": "https://wa.me/573178492581"
       }
     ]
   },
@@ -52,39 +57,14 @@
     {
       "institution": "Corporación Universitaria Autónoma de Nariño",
       "url": "https://www.uo/index.html",
-      "area": "Ingeniero de Informático",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
+      "area": "Ingenieria Informática",
+      "studyType": "Estudiante 8vo Semestre",
+      "startDate": "2020-08-01",
+      "endDate": null,
+      "score": "4.5",
       "courses": [
         "DB1101 - Basic SQL"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "httpcom",
-      "summary": "Description…"
     }
   ],
   "skills": [
@@ -223,66 +203,22 @@
   ],
   "projects": [
     {
-      "name": "codes",
+      "name": "Portfolio",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Ambito Laboral",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https:odes"
-    },
-    {
-      "name": "programacion",
-      "isActive": true,
-      "description": "Retos",
-      "highlights": [
-        "millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Presentacion"
       ],
       "url": "demos en linea"
     },
     {
-      "name": "proyetosdesarrollo",
+      "name": "App Movil Turismo",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Desarrollo de app con RA",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "atraccion turistica"
       ],
       "url": "demos en lineas://proyetosdesarrollo.dev"
-    },
-    {
-      "name": "link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "demos en lineas://codi.link",
-      "github": "demos en lineas:/nk"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500"
-      ],
-      "url": "demos en lineas://pruebastecnicas.com",
-      "github": "www."
-    },
-    {
-      "name": "ponencia",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "demos en lineas://paginaweb.com"
     }
   ]
 }
